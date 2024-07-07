@@ -7,4 +7,4 @@
 | 312210207 | Aditya Putra Wijaya |
 | 312210623 | Muhammad Radja |
 
-## 
+## Laporan hasil penelitian projek Laporan Project UAS Pengolahan Citra.pdf
